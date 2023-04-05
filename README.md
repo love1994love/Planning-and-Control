@@ -5,7 +5,7 @@
 1. 克隆仓库
 
    ```terminal
-   git clone https://github.com/AtsushiSakai/PythonRobotics.git
+   git clone https://github.com/love1994love/Planning-and-Control.git
    ```
 
 
